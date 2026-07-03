@@ -8,7 +8,7 @@ Building scalable distributed systems, high-performance backend services and clo
 
 ## 🚀 About Me
 
-Backend engineer with **4+ years of experience** designing and building scalable enterprise systems using **Java, Spring Boot, Microservices and AWS**.
+Backend engineer with **5 years of experience** designing and building scalable enterprise systems using **Java, Spring Boot, Microservices and AWS**.
 
 Currently working at **Deloitte USI**, previously at **Infosys**, delivering solutions for enterprise claims automation and one of India's largest government tax platforms.
 
