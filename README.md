@@ -1,26 +1,28 @@
 # Hey there 👋 I'm Dhanush Reddy
 
-### Senior Backend Engineer | Java | Microservices | AWS | System Design
+### Senior Backend Engineer | Java | Spring Boot | Microservices | AWS | System Design | AI-Driven Development
 
-Building scalable distributed systems, high-performance backend services and cloud-native applications.
+Building scalable distributed systems, high-performance backend services, and cloud-native applications while leveraging AI agents to accelerate end-to-end software development.
 
 ---
 
 ## 🚀 About Me
 
-Backend engineer with **5 years of experience** designing and building scalable enterprise systems using **Java, Spring Boot, Microservices and AWS**.
+Senior Software Engineer with **5 years of experience** designing and developing scalable enterprise applications using **Java, Spring Boot, Microservices, and AWS**.
 
-Currently working at **Deloitte USI**, previously at **Infosys**, delivering solutions for enterprise claims automation and one of India's largest government tax platforms.
+Currently working at **Deloitte USI**, previously at **Infosys**, delivering enterprise solutions across healthcare claims automation and large-scale government taxation platforms.
 
-I enjoy solving problems related to:
+Passionate about backend engineering, distributed systems, system design, and leveraging autonomous AI coding agents to improve software development productivity.
 
-- Distributed Systems
-- System Design
-- Scalability
-- Performance Optimization
-- Cloud Architecture
-- Event Driven Systems
-- Developer Productivity
+I enjoy solving engineering challenges related to:
+ - Distributed Systems & Microservices Architecture
+ - System Design & Scalability
+ - Backend Performance Optimization
+ - Event-Driven Architectures
+ - API Design & Integration (REST & GraphQL)
+ - Cloud-Native Application Development
+ - AI-Assisted & Agentic Software Development
+ - Developer Productivity & Engineering Automation
 
 ---
 
@@ -33,6 +35,24 @@ I enjoy solving problems related to:
 ![Microservices](https://img.shields.io/badge/Microservices-20232A?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### System Design & Architecture
+
+![System Design](https://img.shields.io/badge/System_Design-2C3E50?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-34495E?style=for-the-badge)
+![Microservices Architecture](https://img.shields.io/badge/Microservices_Architecture-00796B?style=for-the-badge)
+![Event Driven Architecture](https://img.shields.io/badge/Event--Driven_Architecture-6C63FF?style=for-the-badge)
+![Scalability](https://img.shields.io/badge/Scalability-1976D2?style=for-the-badge)
+![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-E65100?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-795548?style=for-the-badge)
+
+### AI-Assisted Development
+
+![Devin AI](https://img.shields.io/badge/Devin_AI-000000?style=for-the-badge&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-00A6ED?style=for-the-badge&logoColor=white)
+![Agentic Coding](https://img.shields.io/badge/Agentic_Coding-7B61FF?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-2ECC71?style=for-the-badge)
 
 ### Cloud & DevOps
 
@@ -48,6 +68,7 @@ I enjoy solving problems related to:
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frontend
 
@@ -62,20 +83,20 @@ I enjoy solving problems related to:
 
 ### Deloitte USI
 
-- Led architecture and design of backend microservices
-- Improved DRL generation accuracy significantly
-- Reduced rule development effort by **50%+**
-- Increased operational throughput by **40%+**
-- Optimized DMN execution workflows
-- Mentored engineers and drove technical design reviews
+- Contributed to the design and development of scalable Java/Spring Boot microservices for enterprise claims automation.
+- Leveraged Devin AI, GitHub Copilot, and Windsurf for AI-assisted end-to-end development, implementation, debugging, and testing.
+- Reduced business rule development effort by 50%+ through reusable Drools/DMN solutions.
+- Increased operational throughput by 40%+ through workflow automation.
+- Developed GraphQL resolvers using Node.js for database queries and external API integrations.
+- Contributed to technical solution design, mentoring, and engineering reviews.
 
 ### Infosys
 
-- Built APIs for GST platform serving millions of taxpayers
-- Improved backend response time by **30–40%**
-- Reduced production defects by **40–50%**
-- Designed and implemented Spring Boot services
-- Developed Angular-based modules from scratch
+- Developed backend APIs and Spring Boot services for India's GST platform serving millions of taxpayers.
+- Improved backend response times by 30–40% through performance optimization and database query improvements.
+- Reduced production defects by 40–50% through rigorous testing and debugging.
+- Developed Angular-based frontend modules from scratch for critical GST workflows.
+- Contributed to solution design, technical reviews, and production stability improvements.
 
 ---
 
